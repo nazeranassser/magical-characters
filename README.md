@@ -1,3 +1,3 @@
 # Magical Characters
 # Github Pages:
-[link](https://nazeranassser.github.io/magical-characters/)
+[click the link](https://nazeranassser.github.io/magical-characters/)
